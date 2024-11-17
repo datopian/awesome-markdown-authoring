@@ -1,6 +1,6 @@
-# Awesome Markdown Authoring [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Markdown [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome markdown authoring and publishing tools.
+🕶️📝 Awesome markdown tools and information
 
 ## Tools
 
@@ -9,6 +9,11 @@
 - [Nextra]([url](https://nextra.site/)) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [Quartz](https://quartz.jzhao.xyz/) - Fast, batteries-included static-site generator that transforms Markdown content into fully functional websites.
 - [Genji]([url](https://genji-md.dev/)) - Author interactive documents with just Markdown.
+- [Obsidian](https://obsidian.md/)
+
+Paid
+
+- https://www.mweb.im - Markdown writing, note taking and static blog generator app (Apple only)
 
 ### Data Focused
 
